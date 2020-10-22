@@ -1,5 +1,5 @@
 # SSRM-3D-Resistivity-Mapping
-Image analysis tools for creating 3D resistivity and phase maps from Scanning-spreading resistance microscopy.
+Image analysis tools for creating 3D resistivity and phase maps from Scanning-spreading resistance microscopy. Can be easily adapted to create 3D maps from other measurement types.
 
 ## Abstract
 
